@@ -1,0 +1,15 @@
+#duckie_list img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 10%;
+}
+
+.duckie_page img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+}
+
